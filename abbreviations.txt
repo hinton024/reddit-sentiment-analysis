@@ -157,6 +157,7 @@
     "nsfl": "not safe for life",
     "nsfw": "not safe for work",
     "nth": "nice to have",
+    "nvda": "nvidia",
     "nvr": "never",
     "nyc": "new york city",
     "oc": "original content",
