@@ -19,11 +19,11 @@ def redditClient():
         #
         # TODO: you specify with your details
         #
-        clientId = "Ge8IdW-mH5F2Cc0n-lwwrw"
-        clientSecret = "jl-KXncJakRy6hRb2l7CHe1kNV9AVw"
-        password = "Preet@*321#"
-        userName = "Comprehensive-End522"
-        userAgents = 'client for SNAM2024'
+        clientId = "your client id"
+        clientSecret = "your client secret"
+        password = "your password"
+        userName = "your user name"
+        userAgents = 'user Agents'
 
         redditClient = praw.Reddit(client_id = clientId,
                                    client_secret = clientSecret,
